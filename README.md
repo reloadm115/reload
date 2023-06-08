@@ -1,37 +1,24 @@
-# reload
-ok fine
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Contoh Halaman Web</title>
-</head>
-<body>
-  <header>
-    <h1>Selamat Datang di Halaman Web Saya</h1>
-  </header>
+ok wel
+kata-kata yang mungkin bisa memberikan inspirasi atau memiliki makna yang mendalam:
 
-  <nav>
-    <ul>
-      <li><a href="#">Beranda</a></li>
-      <li><a href="#">Tentang</a></li>
-      <li><a href="#">Kontak</a></li>
-    </ul>
-  </nav>
+Kesuksesan adalah hasil dari kerja keras, ketekunan, dan ketekunan yang tidak pernah menyerah.
 
-  <main>
-    <section>
-      <h2>Tentang Saya</h2>
-      <p>Halo, nama saya John Doe. Saya seorang web developer.</p>
-    </section>
+Pendidikan adalah kunci untuk membuka pintu ke dunia yang lebih baik.
 
-    <section>
-      <h2>Kontak</h2>
-      <p>Silakan hubungi saya melalui email di <a href="mailto:john@example.com">john@example.com</a>.</p>
-    </section>
-  </main>
+Percayalah pada dirimu sendiri, kamu memiliki kekuatan untuk meraih impianmu.
 
-  <footer>
-    <p>Hak Cipta &copy; 2023 John Doe</p>
-  </footer>
-</body>
-</html>
+Kebersyukuran adalah kunci kebahagiaan sejati.
+
+Jangan pernah takut gagal, karena kegagalan adalah pelajaran berharga yang membawa kita menuju kesuksesan.
+
+Sebuah senyuman dapat mengubah hari seseorang. Berbagilah senyuman dengan orang lain.
+
+Kesederhanaan adalah keindahan yang tak ternilai harganya.
+
+Ketika satu pintu tertutup, pintu lain akan terbuka. Tetaplah berani dan terus mencoba.
+
+"Kesempatan tidak datang dengan sendirinya. Kita harus menciptakannya." - Chris Grosser
+
+Jangan menunggu kesempurnaan, bertindaklah sekarang dengan apa yang kamu miliki, di mana kamu berada, dan lakukan yang terbaik.
+
+Ingatlah bahwa kata-kata memiliki kekuatan yang luar biasa. Gunakanlah kata-kata dengan bijak untuk memberikan inspirasi, motivasi, dan kebaikan kepada diri sendiri dan orang lain di sekitar Anda.
